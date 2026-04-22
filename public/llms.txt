@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות ממתקים יוקרתיים עם מבחר עשיר של פרלינים בעבודת יד, שוקולד מובחר, עוגיות בוטיק וממתקים צבעוניים. הפכו כל רגע לחגיגה אמיתית עם Adon Novo.
+
+### אירועים וקייטרינג
+https://example.com/events
+שוקולד פרלינים מובחרים לאירועים, קונספטים ייחודיים לקוקטיילים ושולחנות ממתקים מרהיבים. הפכו כל אירוע לחוויה בלתי נשכחת עם קייטרינג יוקרתי של Adon Novo.
+
+### אודות
+https://example.com/about
+Adon Novo נולד מאהבה לאומנות הקונדיטוריה ולרגעים מיוחדים. גלו את הפילוסופיה, הערכים והתשוקה שמאחורי כל עוגייה, פרלין ושוקולד מובחר שאנו יוצרים.
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין עוגיות, פרלינים או קייטרינג לאירוע הקרוב? צוות Adon Novo כאן לעזור לכם לתכנן חוויית ממתקים יוקרתית ומותאמת אישית. פנו אלינו עוד היום.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Adon Novo
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Adon Novo
+
+### Category
+https://example.com/category/:slug
+מוצרים - Adon Novo
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
